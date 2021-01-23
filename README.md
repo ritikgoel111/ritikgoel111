@@ -1,4 +1,4 @@
-
+## ℌ𝔦 𝔱𝔥𝔢𝔯𝔢   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I am  Ritik Goel 👨‍💻
 ---
 ###  📈 Currently _working_ on:
@@ -23,10 +23,8 @@
 .
  
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KeshavSingh7&repo=hotelSite&theme=dark)](https://github.com/Madhav2108/Hotel-Template)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=GAMING-PC&theme=dark)](https://github.com/Madhav2108/GAMING-PC)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Cursor-Animation&theme=dark)](https://
+
 
 ---
 ## __THANK  YOU__  
-### For More [JOIN](https://discord.gg/khJeKb8) My Discord Server 
+
