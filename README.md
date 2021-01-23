@@ -8,9 +8,7 @@
 #### ```PYTHON```| ```CORE JAVA```| ```C```| ```SQL```
 #### ```Bootstrap```| ```Jquery```| ```HTML```| ```CSS```
 ---
-### TIME FOR STATS :
-[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=ritikgoel111show_icons=true&theme=dark)](https://sourcerer.io/madhav2108)
----
+
 ##  📝 You can find me on:
 <br>
 
@@ -25,6 +23,5 @@
 ---
 
 
----
 ## __THANK  YOU__  
 
