@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**ritikgoel111/ritikgoel111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am  Ritik Goel 👨‍💻
+---
+###  📈 Currently _working_ on:
+#### __Pandas Numpy | (ML Algo)PYTHON | SQL | Statistics|Data Cleaning__
+---
+### 📚	Comfortable With  :
+#### ```PYTHON```| ```CORE JAVA```| ```C```| ```SQL```
+#### ```Bootstrap```| ```Jquery```| ```HTML```| ```CSS```
+---
+### TIME FOR STATS :
+[![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=ritikgoel111show_icons=true&theme=dark)](https://sourcerer.io/madhav2108)
+---
+##  📝 You can find me on:
+<br>
 
-Here are some ideas to get you started:
+<a href="www.instagram.com/_ritikgoel_/">
+  <img align="left" alt="Sparsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ritik-goel-158473189/">
+  <img align="left" alt="Sparsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
+.
+ 
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KeshavSingh7&repo=hotelSite&theme=dark)](https://github.com/Madhav2108/Hotel-Template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=GAMING-PC&theme=dark)](https://github.com/Madhav2108/GAMING-PC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madhav2108&repo=Cursor-Animation&theme=dark)](https://
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## __THANK  YOU__  
+### For More [JOIN](https://discord.gg/khJeKb8) My Discord Server 
